@@ -1,27 +1,104 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jiranuwat Tima
-======================================================================================================================================
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmimi&label=Profile%20views&color=0e75b6&style=flat" alt="mahmimi" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmimi" alt="mahmimi" /></a> </p>
-
-Data engineer | Data analytic | Data science
-----------------------------------------
-
-*   🌍  I'm based in Thailand
-*   ✉️  You can contact me at [Jiranuwat.contact@gmail.com](mailto:Jiranuwat.contact@gmail.com)
-*   🚀  I'm currently working on [🤗Huggingface Space](http://huggingface.co/Jiranuwat)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jiranuwat-tima-b3166428a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiranuwat tima" height="30" width="40" /></a>
+<p align="center">
+<img src="https://images.steamusercontent.com/ugc/2022726727120664742/1DB762F25B451FDB4A714210F07988EBCAA8E191/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">
+Hi 👋 I'm Jiranuwat Tima
+</h1>
+
+<h3 align="center">
+Data Engineer • Data Platform Builder • Analytics Engineer
+</h3>
+
+<p align="center">
+Building scalable data platforms and modern data pipelines.
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🌏 Based in **Thailand**
+- 🧠 Specializing in **Data Engineering & Data Platforms**
+- ⚙️ Building **Dagster-based data pipelines**
+- 📊 Working with **medallion data architecture (Bronze / Silver / Gold)**
+- 🗂 Implementing **metadata governance with DataHub**
+- 🚀 Developing reusable **data platform infrastructure**
+
+📫 Contact: **Jiranuwat.contact@gmail.com**
+
+---
+
+# 🔗 Connect
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+<a href="https://www.linkedin.com/in/jiranuwat-tima-b3166428a">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+---
+
+# ⚙️ Data Engineering Stack
+
+### Orchestration & Data Platform
+
+<p>
+
+<img src="https://img.shields.io/badge/Dagster-5C6AC4?style=for-the-badge&logo=dagster&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataHub-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml"/>
+
+</p>
+
+### Infrastructure
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git"/>
+
+</p>
+
+### Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp"/>
+
+</p>
+
+### Data & ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmimi&theme=default" alt="mahmimi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmimi&show_icons=true&locale=en&layout=compact" alt="mahmimi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmimi&show_icons=true&locale=en" alt="mahmimi" /></p>
-                    
+---
+
+# 🚀 Current Focus
+
+- Building **Dagster Data Platform Framework**
+- YAML-driven asset configuration
+- Metadata integration with **DataHub**
+- Infrastructure-ready data pipelines
+
+---
+
+⭐ From https://github.com/mahmimi
